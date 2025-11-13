@@ -160,7 +160,8 @@ export default function PatientsSection() {
         }
       `}</style>
 
-      <div className="container px-4 sm:px-5 py-12 sm:py-24 mx-auto">
+      <div className="container px-4 sm:px-5 py-12 sm:py-24 mx-auto">   
+
         <div className="flex flex-col text-center w-full mb-12 sm:mb-20 header-animate">
           <h2 className="text-xs text-indigo-500 tracking-widest font-medium title-font mb-1 uppercase">
             PATIENT RECORDS
